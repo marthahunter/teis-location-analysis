@@ -1,5 +1,27 @@
 ## TEIS BDI-3 Analysis
 
+In this project, I worked with a group of my peers in my Data Analytics cohort. We analyzed one year's worth of  Tennessee Early Intervention System (TEIS) data to provide insights regarding evaluation scores across regions and subregions of Tennessee. This was the question at hand:
+
+
+7. Is there any notable pattern of scoring by region? Note: TEIS contracts with three agencies for evaluations (one per grand region) as follows:  
+* East TN, First TN and Southeast
+* Greater Nashville, Upper Cumberland, and South Central
+* Northwest, Southwest, and Memphis Delta
+
+We utilized Python/Jupyter notebooks and Seaborn visualizations to understand and demonstrate different regional and subregional trends within the dataset TEIS provided. Below, you can see a couple graphs we generated. Other analysis included average percentile rank by region, average developmental quotient by region, and heat maps to present specific subdomain evaluations by age and explain how scores varied among regions. 
+
+![count by region/subregion](image.png)
+
+![age by region/subregion](image-1.png)
+
+## Editorial Team
+
+I also served on the Editorial Team (also known as the Project Management Team) to set style guidelines and other parameters. This helped ensure a uniform voice and look to our class presentation. The image below is a list of guidelines I helped generate and communicate out to the group, all on an expedited timeline. These guidelines included custom color palette dictionaries, font pairings, Seaborn themes, capitalization guidelines for titles and axis labels, and more. Serving on the Editorial Team was a fun and challenging way to transfer skills from my experience in marketing to a data analytics project.
+
+![editorial team guidelines](image-2.png)
+
+## Initial Project Prompt
+
 [The Tennessee Early Intervention System (TEIS)](https://www.tn.gov/didd/for-consumers/tennessee-early-intervention-system-teis.html) is a voluntary program that offers therapy and other services to families of infants and young children with developmental delays or disabilities. Services are provided at no cost to families. TEIS is critically important to supporting the development of Tennessee children with disabilities and developmental delays as they prepare for school.
 
 In this project, you are going to be working with data gathered from the Battelle Developmental Inventory, Third Edition (BDI-3) Eligibility Evaluation, an early childhood instrument based on the concept of developmental milestones. The BDI-3 is used by TEIS for determining eligibility and outcomes. This assessment tool has been in use for less than a year now, so the purpose of your work is to analyze the scores to see if there appear to be any weaknesses in this tool in any of the assessed domains or subdomains.

@@ -1,6 +1,8 @@
 ## TEIS BDI-3 Analysis
 
-In this project, I worked with a group of my peers in my Data Analytics cohort. We analyzed one year's worth of  Tennessee Early Intervention System (TEIS) data to provide insights regarding evaluation scores across regions and subregions of Tennessee. This was the question at hand:
+In this project, I worked with a group of my peers in my Data Analytics cohort. We analyzed one year's worth of  Tennessee Early Intervention System (TEIS) data to provide insights regarding evaluation scores across regions and subregions of Tennessee. Several groups split up and answered different questions. Then we put together [this presentation](https://docs.google.com/presentation/d/1X0_Ux3hOA-yDCUSuHzXJbXxW24HKTD95PZIvEN_SMt8/edit#slide=id.p) and presented to the TEIS representative who introduced us to the data and provided us with her questions. 
+
+This was my group's question at hand:
 
 
 7. Is there any notable pattern of scoring by region? Note: TEIS contracts with three agencies for evaluations (one per grand region) as follows:  
